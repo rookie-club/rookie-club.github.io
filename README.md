@@ -20,3 +20,4 @@ _un peu en vrac, je récupère les différents écahnges qu'il y a sur le [rooki
 - [Venir au Rookie Club](rookieclub/venir-au-rookie-club.md)
 - [Rétrospective septembre 2018](rookieclub/retrospective-septembre-2018.md)
 - [Journaux](rookieclub/journaux/)
+- [Ressources](rookieclub/ressources.md)
