@@ -1,5 +1,9 @@
 # Journaux
 
+## 2020
+
+- [Grosse revue de code sur la désectorisation dans RDV-Solidarités](grosse_revue_de_code_sur_la_desectorisation.md)
+
 ## 2019
 
 - [14 mars](20190314.md)
