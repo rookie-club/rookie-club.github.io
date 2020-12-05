@@ -1,4 +1,7 @@
-# Exercices
+---
+layout: default
+title: Exercices
+---
 
 ## HackInScience
 

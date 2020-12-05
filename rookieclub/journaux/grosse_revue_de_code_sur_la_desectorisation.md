@@ -1,4 +1,7 @@
-# Grosse revue de code sur la désectorisation
+---
+layout: default
+title: Grosse revue de code sur la désectorisation
+---
 
 ## Personnes présentent
 

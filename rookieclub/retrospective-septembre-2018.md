@@ -1,4 +1,7 @@
-# Rétrospective de septembre 2018
+---
+layout: default
+title: Rétrospective de septembre 2018
+---
 
 Le rookie club à commencé en janvier 2016. Durant un an et demi, nous avons fonctionné dans un mode « track unique », avec peu de monde. En septembre 2017, nous avons changé le format. Nous sommes parti sur la mise ne place d'un forum ouvert, ce qui a permis de créer quelque chose de plus horizontal, de plus libre. La communauté d'apprentissage était née.
 

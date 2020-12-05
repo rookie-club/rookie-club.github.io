@@ -1,4 +1,7 @@
-# Ressources
+---
+layout: default
+title: Ressources
+---
 
 ## You Don't Know JS (book series)
 

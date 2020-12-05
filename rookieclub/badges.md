@@ -1,4 +1,7 @@
-# Badges
+---
+layout: default
+title: Badges
+---
 
 Bonjour à toutes et à tous.
 

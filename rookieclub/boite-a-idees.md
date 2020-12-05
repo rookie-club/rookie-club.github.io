@@ -1,4 +1,7 @@
-# Boite à idées
+---
+layout: default
+title: Boite à idées
+---
 
 Constriure une boite à idées pour le rookie club.
 

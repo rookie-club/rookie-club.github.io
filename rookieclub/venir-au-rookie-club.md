@@ -1,4 +1,7 @@
-# Comment venir au Rookie Club
+---
+layout: default
+title: Comment venir au Rookie Club
+---
 
 **Le Rookie Club n'a plus lieu, ce message est une archive**
 
