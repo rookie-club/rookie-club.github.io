@@ -14,7 +14,7 @@ Ici se retrouve les personnes intéressé par la programmation. Des personnes d�
 
 ## Historique
 
-_un peu en vrac, je récupère les différents écahnges qu'il y a sur le [rookieclub.org](http://rookieclub.org)_
+_un peu en vrac, je récupère les différents échanges qu'il y a sur le [rookieclub.org](http://rookieclub.org)_
 
 - [Glossaire](rookieclub/glossaire)
 - [Exercices](rookieclub/exercices)
