@@ -9,32 +9,47 @@
     <link type="text/css" rel="stylesheet" href="knacss.css">
     <style>
       html {
-        background-color: #002E5D;
+        background-color: #000C19;
         padding: 0;
+        color: #ddd;
+        font-size: 1.25rem;
       }
       body {
         padding: 1em;
         background-color: #001F3F;
-        color: #01FF70;
-        font-family: Courier, Monaco, monospace;
-        width: 50em;
+        color: #ddd;
+        font-family: roboto, noto, ubuntu, 'helvetica neue', helvetica, arial, sans-serif;
+        max-width: 50em;
         margin: 0 1em;
         min-height: 100vh;
       }
+      pre, code {
+        font-family: "Courier New", monospace;
+        font-size: smaller;
+        background-color: #002E5D;
+        overflow: auto;
+        padding: .5em;
+      }
       a, h1, h2, h3, h4, h5, h6 {
-        color: #01FF70;
+        color: #ddd;
       }
       a:hover {
         background-color: #FFDC00;
         color: #001F3F;
       }
+      blockquote {
+        background-color: #612100;
+        font-style: italic;
+        font-size: smaller;
+        padding: 0.2em 1em;
+      }
       header {
         text-align:center;
-        font-family: Georgia, serif;
         font-weight: bolder;
         padding-bottom: 1em;
       }
       header h1 {
+        font-family: Georgia, serif;
         margin-top: 0;
         text-transform: uppercase;
         letter-spacing: -3px;
@@ -46,9 +61,13 @@
         padding: 0.7em;
         margin: 0.7em -1em;
         text-align: center;
-        border-top: thick solid #003C7A;
-        border-bottom: thick solid #003C7A;
+        border-top: thick solid #000C19;
+        border-bottom: thick solid #000C19;
       }
+      h2, h3 {
+        margin: 2em 0 1em 0;
+      }
+
 
       @media (min-width: 50em) { body {margin: 0 auto;} }
     </style>
