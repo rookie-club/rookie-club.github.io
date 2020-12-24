@@ -2,20 +2,59 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="language" content="French" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
     <title>{{ page.title }}</title>
 
+    <link type="text/css" rel="stylesheet" href="knacss.css">
     <style>
       body {
-        margin:1em;
-        font-family: Palantino, serif;
+        background: darkblue;
+        color: white;
+        font-family: Courier, Monaco, monospace;
+        max-width: 50em;
+        margin: 1em;
       }
-      p {
-        font-size: 1.25rem;
-        max-width: 65ch;
+      a, h1, h2, h3, h4, h5, h6 {
+        color: white;
       }
+      a:hover {
+        background-color: orange;
+        color: darkblue;
+      }
+      header {
+        text-align:center;
+        font-family: Georgia, serif;
+        font-weight: bolder;
+        padding-bottom: 1em;
+      }
+      header h1 {
+        text-transform: uppercase;
+        letter-spacing: -3px;
+      }
+      header em {
+        margin-bottom: 1em;
+      }
+      h2 {
+        border-bottom: thin solid white;
+      }
+      nav {
+        text-align: center;
+      }
+
+      @media (min-width: 50em) { body {margin:auto;} }
     </style>
   </head>
   <body>
+    <header>
+      <h1>Les&nbsp;pieds dans&nbsp;le&nbsp;code</h1>
+      <em>Pour&nbsp;apprendre&nbsp;à&nbsp;programmer, le&nbsp;mieux&nbsp;est&nbsp;de&nbsp;metre&nbsp;les&nbsp;pieds&nbsp;dedans.</em>
+    </header>
+    <nav>
+      <a href="/">Accueil</a>
+      <a href="/rookieclub/journaux">Journaux</a>
+      <a href="/rookieclub">Archives du Rookie Club</a>
+    </nav>
     {{ content }}
   </body>
 </html>
