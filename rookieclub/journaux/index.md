@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Journaux
+title: Journaux du Rookie Club
 ---
 
-## 2020
-
-- [Grosse revue de code sur la désectorisation dans RDV-Solidarités](grosse_revue_de_code_sur_la_desectorisation)
+Voici les journaux du Rookie Club. Les journaux plus récent sont lire sur [/journaux](/journaux)
 
 ## 2019
 

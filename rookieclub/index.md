@@ -15,6 +15,7 @@ Nous avons utilisé :
 
 Il y avait du bien sur le discourse, mais je préfère rester sur un dépôt de code. Je suis donc en train de rapatrier les divers notes, fil de discussion et autres partages sur ce site.
 
+
 - [Glossaire](glossaire)
 - [Exercices](exercices)
 - [Emploi](emploi)

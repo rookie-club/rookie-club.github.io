@@ -1,4 +1,8 @@
-# Session du 15 décembre 2020
+---
+layout: default
+title: Session du 15 décembre 2020
+---
+
 
 Nous avons fait un kata bowling en JavaScript
 

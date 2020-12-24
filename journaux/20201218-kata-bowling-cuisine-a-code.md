@@ -1,4 +1,7 @@
-# Session du 18 décembre 2020
+---
+layout: default
+title: Session du 18 décembre 2020
+---
 
 Nous avons repris le kata bowling en JavaScript de la dernière fois
 
