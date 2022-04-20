@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Les pieds dans le code
+title: Rookie Club
 ---
 
 
 ## À propos
 
+Le rookie club est une expérience de communauté d'apprentissage qui a eu lieu de 2016 à 2020 chez /ut7 tous les vendredi.
 
-Il existe un tas de ressource disponible. Souvent, ce qu'il manque c'est de l'aide, une personne à qui parler, poser des questions, discuter.
+Des personnes intéressées par la programmation s'y retrouvaient pour apprendre ensemble, se poser des questions, découvrir, partager, pratiquer, progresser... autour de la programmation.
 
-Ici se retrouve les personnes intéressé par la programmation. Des personnes désireuses d’apprendre à celles qui pratiquent au quotidien et cherche à progresser, toutes peuvent ici partager, découvrir, apprendre autour de la programmation.
 

@@ -175,7 +175,7 @@ Le 28 septembre 2018 à 18h
 
 http://codingdojo.org/kata/PokerHands/
 
-[code](https://github.com/lespiedsdanslecode/katas/tree/poker/java)
+[code](https://github.com/rookie-club/katas/tree/poker/java)
 
 @will.i.am
 @camille
