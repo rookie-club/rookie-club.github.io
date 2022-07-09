@@ -43,12 +43,13 @@
       header em {
         margin-bottom: 1em;
       }
+      footer {
+        margin-top: 3em;
+        border-top: 1px solid black;
+      }
       nav {
         padding: 0.7em;
         margin: 0.7em -1em;
-        text-align: center;
-        border-top: thick solid #000C19;
-        border-bottom: thick solid #000C19;
       }
       h2, h3 {
         margin: 2em 0 1em 0;
@@ -61,14 +62,20 @@
   <body>
     <header>
       <h1>Le Rookie Club</h1>
-      <em>Programmer ensemble</em>
+      <em>Apprendre à programmer ensemble</em>
     </header>
-    <nav>
-      <a href="/">Accueil</a>
-      <a href="/journaux">Journaux</a>
-      <a href="/rookieclub">Archives du Rookie Club</a>
-    </nav>
-    {{ content }}
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <nav>
+        <ul>
+          <li><a href="/">Accueil</a></li>
+          <li><a href="/journaux">Journaux</a></li>
+          <li><a href="/rookieclub">Archives du Rookie Club</a></li>
+        </ul>
+      </nav>
+    </footer>
   </body>
 </html>
 
