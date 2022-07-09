@@ -3,7 +3,6 @@ layout: default
 title: Rookie Club
 ---
 
-
 ## À propos
 
 Le rookie club est une expérience de communauté d'apprentissage qui a eu lieu de 2016 à 2020 chez /ut7 tous les vendredi.
