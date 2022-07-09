@@ -2,6 +2,9 @@
 layout: default
 title: Journaux
 ---
+## 2022
+
+- [Session du Mai-Juin : Number to Roman en cuisine à code](20220709-kata-roman.md)
 
 ## 2020
 
