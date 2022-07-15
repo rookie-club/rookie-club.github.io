@@ -18,6 +18,11 @@ Inspiration
 - [Forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert)
 - Orientation [pédagogique constructiviste](https://fr.wikipedia.org/wiki/Constructivisme_(psychologie))
 
+Selon les clubs, cela peut durer de 2 heures à une journée complète.
+
+1. Proposition des sujets de travail
+2. Organisation de la session (groupement de sujet, organisation lieux et temps si c'est sur une journée complète, ...)
+3. Sesion(s)
 
 ## Outil
 
