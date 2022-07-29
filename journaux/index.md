@@ -4,6 +4,7 @@ title: Journaux
 ---
 ## 2022
 
+- [Session du 29 Juillet](20220729)
 - [Session du 4 Juillet avec Yannick \o/](20220709-RomanToNumeral)
 - [Session du Mai-Juin : Number to Roman en cuisine à code](20220709-kata-roman)
 
